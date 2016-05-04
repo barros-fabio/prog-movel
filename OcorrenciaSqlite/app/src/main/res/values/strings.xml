@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OcorrenciaSqlite</string>
+    <string name="lbl_add">Adicionar ocorrência</string>
+    <string name="lbl_ver">Ver todas as ocorrências</string>
+    <string name="title_activity_adicionar_main">AdicionarMainActivity</string>
+    <string name="lbl_nome_ocorrencia">Nome da ocorrência:</string>
+    <string name="lbl_descricao_ocorrencia">Descrição da ocorrência</string>
+    <string name="lbl_salvar">Salvar</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.bookofpicaretation.IssuesActivity" >
+    <item android:id="@+id/addItem" android:title="@string/lbl_bt_add_issue"></item>
+    <item android:id="@+id/showClosedItem" android:title="@string/lbl_bt_show_closed"></item>
+    <item android:id="@+id/backItem" android:title="@string/lbl_bt_back"></item>
+
+</menu>
+<!-- From: file:/C:/Users/André/AndroidStudioProjects/04_BookOfPicaretation_AStudio/app/src/main/res/menu/issues.xml -->

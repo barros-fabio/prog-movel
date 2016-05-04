@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/utfpr/AndroidStudioProjects/04_BookOfPicaretation_AStudio/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/utfpr/AndroidStudioProjects/04_BookOfPicaretation_AStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/fabio/prog-movel/04_BookOfPicaretation_AStudio/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/fabio/prog-movel/04_BookOfPicaretation_AStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/fabio/prog-movel/04_BookOfPicaretation_AStudio/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/fabio/prog-movel/04_BookOfPicaretation_AStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/utfpr/AndroidStudioProjects/04_BookOfPicaretation_AStudio/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/utfpr/AndroidStudioProjects/04_BookOfPicaretation_AStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

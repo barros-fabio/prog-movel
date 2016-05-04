@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Avaliacao01Parte02</string>
+    <string name="action_q6">Questão 6</string>
+    <string name="action_q7">Questão 7</string>
+    <string name="action_sair">Sair</string>
+    <string name="newname">Nome: Fabio Barros</string>
+    <string name="date">Data: 01/05/2016</string>
+    <string name="AvNro">Avaliação: 1</string>
+    <string name="SaveBtn">Salvar</string>
+    <string name="SDcardlbl">Com Cartão SD</string>
+    <string name="SDcardNlbl">Sem cartão SD</string>
+    <string name="RAMlbl">Quantidade de Memoria RAM (GB)</string>
+    <string name="usrname">Nome do usuario</string>
+    <string name="insertLBL">Inserir Novo Usuário</string>
+    <string name="consultarLBL">Consultar Usuario</string>
+    <string name="nomeLBL">Informe o seu nome</string>
+    <string name="idadeHINT">Digite a sua idade</string>
+    <string name="mascLBL" />
+    <string name="mascLabel">Masculino</string>
+    <string name="femLBL">Feminino</string>
+    <string name="svBtn">Salvar</string>
+    <string name="name">Nome:</string>
+    <string name="age">Idade:</string>
+    <string name="sexoLBL">Sexo:</string>
+</resources>

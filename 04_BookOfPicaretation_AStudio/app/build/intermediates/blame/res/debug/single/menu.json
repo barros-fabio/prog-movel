@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/utfpr/AndroidStudioProjects/04_BookOfPicaretation_AStudio/app/build/intermediates/res/merged/debug/menu/collaborator_context_menu.xml",
+        "source": "/home/utfpr/AndroidStudioProjects/04_BookOfPicaretation_AStudio/app/src/main/res/menu/collaborator_context_menu.xml"
+    },
+    {
+        "merged": "/home/fabio/prog-movel/04_BookOfPicaretation_AStudio/app/build/intermediates/res/merged/debug/menu/collaborator_context_menu.xml",
+        "source": "/home/fabio/prog-movel/04_BookOfPicaretation_AStudio/app/src/main/res/menu/collaborator_context_menu.xml"
+    },
+    {
+        "merged": "/home/utfpr/AndroidStudioProjects/04_BookOfPicaretation_AStudio/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/utfpr/AndroidStudioProjects/04_BookOfPicaretation_AStudio/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/fabio/prog-movel/04_BookOfPicaretation_AStudio/app/build/intermediates/res/merged/debug/menu/issues.xml",
+        "source": "/home/fabio/prog-movel/04_BookOfPicaretation_AStudio/app/src/main/res/menu/issues.xml"
+    },
+    {
+        "merged": "/home/fabio/prog-movel/04_BookOfPicaretation_AStudio/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/fabio/prog-movel/04_BookOfPicaretation_AStudio/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/utfpr/AndroidStudioProjects/04_BookOfPicaretation_AStudio/app/build/intermediates/res/merged/debug/menu/issues.xml",
+        "source": "/home/utfpr/AndroidStudioProjects/04_BookOfPicaretation_AStudio/app/src/main/res/menu/issues.xml"
+    }
+]
