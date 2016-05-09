@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">ListaPersistencia</string>
+    <string name="inserirLocalLBL">Inserir Local</string>
+    <string name="lclLBL">Nome do Local</string>
+    <string name="latLBL">Latitude</string>
+    <string name="longLBL">Longitude</string>
+    <string name="saveButton">Salvar</string>
+    <string name="lbl_insert">Inserir Medição</string>
+    <string name="datelbl">Data da mediçao</string>
+    <string name="horalbl">Hora da medição</string>
+    <string name="temp">Temperatura</string>
+    <string name="umidadelbl">Umidade</string>
+    <string name="pressao">Pressão</string>
+    <string name="save_m_lbl">Salvar</string>
 </resources>

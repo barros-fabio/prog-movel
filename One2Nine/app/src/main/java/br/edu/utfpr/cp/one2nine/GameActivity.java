@@ -3,9 +3,11 @@ package br.edu.utfpr.cp.one2nine;
 import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.content.SharedPreferences;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 
@@ -24,6 +26,9 @@ public class GameActivity extends AppCompatActivity {
     List<br.edu.utfpr.cp.one2nine.game.Number> currentListOfNumbers;
     int nextNumberMustBe;
     long startTime;
+    private final int TASK_ADD_CODE = 23;
+    String nome;
+
 
 
     @Override
@@ -143,17 +148,15 @@ public class GameActivity extends AppCompatActivity {
         SharedPreferences myPreferences = getSharedPreferences("One2NinePrefs", Context.MODE_PRIVATE);
         float bestTime = myPreferences.getFloat("time", Float.MAX_VALUE);
 
+
         if(yourTime < bestTime) {	//update best score
+            Intent i = new Intent(GameActivity.this, NomeRecorde.class);
+            startActivity(i,TASK_ADD_CODE);
+
             SharedPreferences.Editor editor = myPreferences.edit();
-            editor.putFloat("time", yourTime);
-            editor.putString("playedBy", "Anonymous");	//improve - user can write a name
-            String currentDate = new SimpleDateFormat("dd-MM-yyyy HH:mm:ss").format(new Date());
-            editor.putString("playedIn", currentDate);
-            editor.commit();
-            msg += "\nNew record!!!";
+
         }
 
-        //
         AlertDialog.Builder alertBuilder = new AlertDialog.Builder(GameActivity.this);
         alertBuilder.setTitle("End of the game");
         alertBuilder.setMessage(msg);
@@ -166,5 +169,12 @@ public class GameActivity extends AppCompatActivity {
         });
 
         alertBuilder.create().show();
+    }
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data){
+        if(requestCode == TASK_ADD_CODE && resultCode == RESULT_OK){
+            String nome = (String) data.getSerializableExtra("nomeRecordista");
+        }
     }
 }

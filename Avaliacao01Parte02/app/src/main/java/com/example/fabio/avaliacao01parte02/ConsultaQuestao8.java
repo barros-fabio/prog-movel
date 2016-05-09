@@ -19,7 +19,7 @@ public class ConsultaQuestao8 extends AppCompatActivity {
         setContentView(R.layout.activity_consulta_questao8);
         DBHelper dbHelper = new DBHelper(ConsultaQuestao8.this);
         SQLiteDatabase db = dbHelper.getWritableDatabase();
-        Pessoa pes = new Pessoa();
+
         ArrayList<Pessoa> listaPessoas = new ArrayList<Pessoa>();
         ArrayAdapter<Pessoa> pessoasAdapter;
         ListView pessoasListView;
@@ -29,11 +29,13 @@ public class ConsultaQuestao8 extends AppCompatActivity {
         cursor.moveToFirst();
 
         while(!cursor.isAfterLast()){
+            Pessoa pes = new Pessoa();
             pes.setNome(cursor.getString(1));
             pes.setSexo(cursor.getString(2));
             pes.setIdade(cursor.getInt(3));
 
             listaPessoas.add(pes);
+            cursor.moveToNext();
         }
 
         pessoasAdapter = new ArrayAdapter<Pessoa>(ConsultaQuestao8.this, android.R.layout.simple_list_item_1,listaPessoas);

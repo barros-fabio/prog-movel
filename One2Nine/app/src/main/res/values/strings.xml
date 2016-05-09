@@ -8,4 +8,6 @@
     <string name="title_activity_escore">EscoreActivity</string>
     <string name="lbl_l_bestTime">Best time was:</string>
     <string name="lbl_played">Played by:</string>
+    <string name="nomelbl">Inform your name</string>
+    <string name="btSave">Save</string>
 </resources>
