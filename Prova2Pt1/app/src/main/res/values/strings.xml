@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prova2Pt1</string>
+    <string name="tarefasLBL">Mostrar todas as tarefas</string>
+    <string name="pesquisarLBL">Pesquisar Tarefa</string>
+    <string name="inserirLBL">Inserir Nova Tarefa</string>
+    <string name="idlbl">Digite um ID</string>
+    <string name="PesquisarLBL">Pesquisar</string>
+</resources>
