@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Prova2Parte1Android</string>
+    <string name="todosLBL">Ver todos os funcionários</string>
+    <string name="consultaLBL">Consulta Funcionario pelo ID</string>
+    <string name="CadastroLBL">Cadastra Funcionário</string>
+    <string name="IdLBL">Digite o ID do funcionário</string>
+    <string name="PesquisarLBL">Pesquisar</string>
+    <string name="idHint">Digite o ID do Funcionario</string>
+    <string name="nomeHint">Digite o nome do Funcionário</string>
+    <string name="salarioFunc">Digite o salário do funcionário</string>
+    <string name="idadeHint">Digite a idade do funcionario</string>
+    <string name="cargoHint">Digite o Cargo do Funcionário</string>
+    <string name="savelbl">Salvar</string>
+</resources>

@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android" >
-    <item android:id="@+id/editItem" android:title="@string/lbl_edit"></item>
-    <item android:id="@+id/deleteItem" android:title="@string/lbl_delete"></item>
-</menu>
-<!-- From: file:/C:/Users/André/AndroidStudioProjects/04_BookOfPicaretation_AStudio/app/src/main/res/menu/collaborator_context_menu.xml -->
