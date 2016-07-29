@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Avaliacao01</string>
+    <string name="lbl_avaliacao">Avaliaçao 1 - Parte 1</string>
+    <string name="lbl_nome">Nome: Fabio Barros</string>
+    <string name="lbl_ra">RA: 1290320</string>
+    <string name="lbl_bt2">Questão 2</string>
+    <string name="lbl_bt3">Questão 3</string>
+    <string name="lbl_questao2">Activity para a Questão 2</string>
+    <string name="lbl_mostranome">Mostre meu nome em um Toast!</string>
+    <string name="lbl_voltar">Voltar para a activity principal</string>
+    <string name="lbl_q3">Questão 3</string>
+    <string name="lbl_naoinformado">Nao Informado</string>
+    <string name="lbl_pago">Pago</string>
+    <string name="lbl_gratis">Grátis</string>
+    <string name="lbl_salvarbutton">Salvar</string>
+    <string name="lbl_q4">Questão 4</string>
+</resources>

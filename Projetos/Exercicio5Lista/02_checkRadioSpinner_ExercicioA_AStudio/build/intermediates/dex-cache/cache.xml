@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/fabio/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/fabio/Projetos/Exercicio5Lista/02_checkRadioSpinner_ExercicioA_AStudio/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_061af4e2dc65274b84015862258b259166faae27.jar" />
+    </item>
+    <item
+        jar="/home/fabio/Projetos/Exercicio5Lista/02_checkRadioSpinner_ExercicioA_AStudio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/fabio/Projetos/Exercicio5Lista/02_checkRadioSpinner_ExercicioA_AStudio/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-21.0.3_e8a61855ea3f149ad78500b58147e3ae8c5f130b.jar" />
+    </item>
+    <item
+        jar="/home/fabio/Projetos/Exercicio5Lista/02_checkRadioSpinner_ExercicioA_AStudio/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/fabio/Projetos/Exercicio5Lista/02_checkRadioSpinner_ExercicioA_AStudio/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_ad0c6b3680506d7eb471829364f77010ca0cfc66.jar" />
+    </item>
+    <item
+        jar="/home/fabio/Projetos/Exercicio5Lista/02_checkRadioSpinner_ExercicioA_AStudio/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/fabio/Projetos/Exercicio5Lista/02_checkRadioSpinner_ExercicioA_AStudio/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.3_ed627feb64616c9d78ab5242ad669f0e7f55a94b.jar" />
+    </item>
+
+</items>

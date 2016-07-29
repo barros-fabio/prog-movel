@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Avaliacao01</string>
+    <string name="label_1">Avaliação 1 - Parte 1</string>
+    <string name="textView2">Nome: Fabio Barros</string>
+    <string name="textView3">RA: 1290320</string>
+    <string name="Qst2">Estou na questao 2</string>
+    <string name="Meunome">Meu nome</string>
+    <string name="voltar">voltar</string>
+    <string name="label_novo">Novo Contato</string>
+    <string name="label_familiar">Familiar</string>
+    <string name="label_trabalho">Trabalho</string>
+    <string name="label_amigo">Amigo</string>
+    <string name="label_cuidado_especial">Cuidado Especial</string>
+    <string name="label_salvar">Salvar</string>
+</resources>

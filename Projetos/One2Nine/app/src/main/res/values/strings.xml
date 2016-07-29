@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">One2Nine</string>
+    <string name="lbl_bt_start">Start Game</string>
+    <string name="lbl_bt_score">View scores</string>
+    <string name="lbl_game">In this game, you need to count from 1 until 9  by pressing the buttons in the correct order as fast as you can. The numbers show up with different labels!</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="lbl_none">empty</string>
+    <string name="title_activity_escore">EscoreActivity</string>
+    <string name="lbl_l_bestTime">Best time was:</string>
+    <string name="lbl_played">Played by:</string>
+</resources>
